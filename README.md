@@ -1,5 +1,8 @@
 ## Olá, eu sou o Rafael Maia e esse é o meu Github! 🧑‍💻 
-Sou um desenvolvedor web 🌐 e aqui tenho alguns de meus projetos pessoais que faço por diversão e estudo.
+Sou um desenvolvedor web 🌐 e aqui tem alguns de meus projetos pessoais que faço por diversão e estudo.
+Aqui estão meus contatos:
+- rafaelmaiadafonseca@gmail.com
+- rafaelmfcontato@protonmail.com
 
 ### Sobre mim:
 - 💻 Estudo programção C#/.NET com foco em desenvolvimento web backend.
@@ -23,8 +26,3 @@ Sou um desenvolvedor web 🌐 e aqui tenho alguns de meus projetos pessoais que 
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia23&theme=algolia)
-
-### Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmaiadafonseca/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelmaiadafonseca@gmail.com)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](rafaelmfcontato@protonmail.com)
