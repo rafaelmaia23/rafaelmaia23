@@ -9,7 +9,7 @@ Aqui estão meus contatos:
 - 📖 Estou começando a aprender JavaScript
 - 🏫 Atualmente curso Engenharia da computação
 - 🤖 Adoro inteligência artificial e espero no futuro aprender sobre o assunto
-- 🙀 Tenho 6 gatos
+- 🙀 Tenho 5 gatos
 
 ![Rafaelmaia23's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmaia23&count_private=true&show_icons=true&theme=algolia)
 
