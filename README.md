@@ -1,8 +1,7 @@
 ## Olá, eu sou o Rafael Maia e esse é o meu Github! 🧑‍💻 
 Sou um desenvolvedor web 🌐 e aqui tem alguns de meus projetos pessoais que faço por diversão e estudo.
-Aqui estão meus contatos:
-- rafaelmaiadafonseca@gmail.com
-- rafaelmfcontato@protonmail.com
+Contato:
+- contato@maiahub.com.br
 
 ### Sobre mim:
 - 💻 Estudo programção C#/.NET com foco em desenvolvimento web backend.
